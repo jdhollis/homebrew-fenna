@@ -1,3 +1,14 @@
 # homebrew-fenna
 
-This is it.
+
+If you'd like to install `fenna` via Homebrew, first you'll need to tap this repository—
+
+```bash
+brew tap jdhollis/fenna
+```
+
+After that, you can install `fenna` with—
+
+```bash
+brew install fenna
+```
