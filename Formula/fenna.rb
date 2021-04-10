@@ -1,9 +1,9 @@
 class Fenna < Formula
   desc "A thin Terraform wrapper for teams"
   homepage "https://github.com/jdhollis/fenna"
-  url "https://github.com/jdhollis/fenna/archive/v1.0.1.tar.gz"
-  sha256 "adcbbfc1c2b95f725a8ce5ac49db8eb62bb14a1b734eba9161cdb68aaefd273b"
-  version "1.0.1"
+  url "https://github.com/jdhollis/fenna/archive/v1.0.2.tar.gz"
+  sha256 "7a2aba7700f16a756d4441c9bd90d286860557a3db240a00840a1a4c02b8b876"
+  version "1.0.2"
 
   bottle :unneeded
 
