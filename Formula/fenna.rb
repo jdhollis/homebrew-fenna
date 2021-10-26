@@ -5,8 +5,6 @@ class Fenna < Formula
   sha256 "7a2aba7700f16a756d4441c9bd90d286860557a3db240a00840a1a4c02b8b876"
   version "1.0.2"
 
-  bottle :unneeded
-
   def install
     bin.install "fenna"
   end
